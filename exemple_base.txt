@@ -1,0 +1,214 @@
+    let mut grid_default: Grid = Grid {
+        cases: vec![
+            vec![
+                Case {
+                    color: 0,
+                    queen: false,
+                },
+                Case {
+                    color: 0,
+                    queen: false,
+                },
+                Case {
+                    color: 1,
+                    queen: false,
+                },
+                Case {
+                    color: 1,
+                    queen: false,
+                },
+                Case {
+                    color: 1,
+                    queen: false,
+                },
+                Case {
+                    color: 1,
+                    queen: false,
+                },
+                Case {
+                    color: 1,
+                    queen: false,
+                },
+            ],
+            vec![
+                Case {
+                    color: 0,
+                    queen: false,
+                },
+                Case {
+                    color: 0,
+                    queen: false,
+                },
+                Case {
+                    color: 1,
+                    queen: false,
+                },
+                Case {
+                    color: 1,
+                    queen: false,
+                },
+                Case {
+                    color: 1,
+                    queen: false,
+                },
+                Case {
+                    color: 2,
+                    queen: false,
+                },
+                Case {
+                    color: 1,
+                    queen: false,
+                },
+            ],
+            vec![
+                Case {
+                    color: 1,
+                    queen: false,
+                },
+                Case {
+                    color: 1,
+                    queen: false,
+                },
+                Case {
+                    color: 3,
+                    queen: false,
+                },
+                Case {
+                    color: 3,
+                    queen: false,
+                },
+                Case {
+                    color: 3,
+                    queen: false,
+                },
+                Case {
+                    color: 1,
+                    queen: false,
+                },
+                Case {
+                    color: 1,
+                    queen: false,
+                },
+            ],
+            vec![
+                Case {
+                    color: 1,
+                    queen: false,
+                },
+                Case {
+                    color: 1,
+                    queen: false,
+                },
+                Case {
+                    color: 3,
+                    queen: false,
+                },
+                Case {
+                    color: 4,
+                    queen: false,
+                },
+                Case {
+                    color: 4,
+                    queen: false,
+                },
+                Case {
+                    color: 1,
+                    queen: false,
+                },
+                Case {
+                    color: 1,
+                    queen: false,
+                },
+            ],
+            vec![
+                Case {
+                    color: 1,
+                    queen: false,
+                },
+                Case {
+                    color: 1,
+                    queen: false,
+                },
+                Case {
+                    color: 3,
+                    queen: false,
+                },
+                Case {
+                    color: 4,
+                    queen: false,
+                },
+                Case {
+                    color: 1,
+                    queen: false,
+                },
+                Case {
+                    color: 1,
+                    queen: false,
+                },
+                Case {
+                    color: 1,
+                    queen: false,
+                },
+            ],
+            vec![
+                Case {
+                    color: 1,
+                    queen: false,
+                },
+                Case {
+                    color: 5,
+                    queen: false,
+                },
+                Case {
+                    color: 1,
+                    queen: false,
+                },
+                Case {
+                    color: 1,
+                    queen: false,
+                },
+                Case {
+                    color: 1,
+                    queen: false,
+                },
+                Case {
+                    color: 1,
+                    queen: false,
+                },
+                Case {
+                    color: 6,
+                    queen: false,
+                },
+            ],
+            vec![
+                Case {
+                    color: 1,
+                    queen: false,
+                },
+                Case {
+                    color: 1,
+                    queen: false,
+                },
+                Case {
+                    color: 1,
+                    queen: false,
+                },
+                Case {
+                    color: 1,
+                    queen: false,
+                },
+                Case {
+                    color: 6,
+                    queen: false,
+                },
+                Case {
+                    color: 6,
+                    queen: false,
+                },
+                Case {
+                    color: 6,
+                    queen: false,
+                },
+            ],
+        ],
+    };
